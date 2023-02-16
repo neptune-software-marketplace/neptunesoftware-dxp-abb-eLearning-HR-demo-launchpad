@@ -1,0 +1,65 @@
+{
+	"id": "7a49c7ce-0cae-ed11-a8e0-000d3ada944e",
+	"createdAt": "2023-02-16T15:15:56.070Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-eLearning-HR-demo-launchpad"
+	},
+	"name": "neptunesoftware-dxp-abb-eLearning-HR-demo-launchpad",
+	"description": "HR Demo Launchpad",
+	"ver": "23.2.16.1546",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "d5340a5d-0dae-ed11-a8e0-000d3ada944e",
+			"description": "Overview of the Employees",
+			"name": "eLearning_HR_Tile"
+		}
+	],
+	"category": [
+		{
+			"id": "0166982b-0dae-ed11-a8e0-000d3ada944e",
+			"description": null,
+			"name": "eLearning_HR_Tile_Group"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "a2dd45f7-0cae-ed11-a8e0-000d3ada944e",
+			"name": "eLearning_HR_Launchpad",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [
+		{
+			"id": "A384172A-0EAE-ED11-A8E0-000D3ADA944E",
+			"updatedAt": "2023-02-16T15:25:47.470Z",
+			"name": "eLearning_HR_media",
+			"parent": null,
+			"package": "7A49C7CE-0CAE-ED11-A8E0-000D3ADA944E"
+		}
+	]
+}
